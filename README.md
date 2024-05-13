@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sebuhi Beylerov😎</h1>
-<h3 align="center"> I am a Web Developer from Azerbaijan. I am 25 years old.</h3>
+<h3 align="center"> I am a Web Developer from Azerbaijan. I am 26 years old.</h3>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=exe-fix" alt="exe-fix" /></a> </p>
 
