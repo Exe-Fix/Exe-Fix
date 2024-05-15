@@ -5,15 +5,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=exe-fix&label=Profile%20views&color=0e75b6&style=flat" alt="exe-fix" /> </p>
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **Advanced Front End **
 
 - 👨‍💻 All of my projects are available at [https://github.com/Exe-Fix](https://github.com/Exe-Fix)
 
-- 💬 Ask me about **Html5,Css3,Bootstrap,JavaScript,Php**
-
 - 📫 How to reach me **sebuhibov@gmail.com**
 
-- 📄 Know about my experiences [https://www.youtube.com/channel/UCPZL6wmz8kQ_YoZUWjES3eA](https://www.youtube.com/channel/UCPZL6wmz8kQ_YoZUWjES3eA)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
